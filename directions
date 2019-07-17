@@ -1,0 +1,9 @@
+steps to test driven development
+
+1. create a test
+2. run test, should fail
+3. write your code
+4. test again
+5. if passes, we will reconfigure code to make more efficient, then test again
+6. if failed, recode, retest
+7. repeat
